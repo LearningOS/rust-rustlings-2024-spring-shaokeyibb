@@ -1,0 +1,112 @@
+✅ variables5 pass
+✅ intro2 pass
+✅ move_semantics1 pass
+✅ if2 pass
+✅ variables6 pass
+✅ variables1 pass
+✅ move_semantics2 pass
+✅ functions1 pass
+✅ variables2 pass
+✅ if3 pass
+✅ move_semantics3 pass
+✅ functions2 pass
+✅ variables3 pass
+✅ quiz1 pass
+✅ move_semantics4 pass
+✅ functions3 pass
+✅ variables4 pass
+✅ primitive_types1 pass
+✅ functions4 pass
+✅ move_semantics5 pass
+✅ enums1 pass
+✅ primitive_types2 pass
+✅ functions5 pass
+✅ move_semantics6 pass
+✅ enums2 pass
+✅ primitive_types3 pass
+✅ if1 pass
+✅ structs1 pass
+✅ enums3 pass
+✅ primitive_types4 pass
+✅ strings1 pass
+✅ errors4 pass
+✅ structs2 pass
+✅ primitive_types5 pass
+✅ strings2 pass
+✅ errors5 pass
+✅ structs3 pass
+✅ primitive_types6 pass
+✅ strings3 pass
+✅ errors6 pass
+✅ tests2 pass
+✅ vecs1 pass
+✅ generics1 pass
+✅ strings4 pass
+✅ tests3 pass
+✅ modules1 pass
+✅ vecs2 pass
+✅ generics2 pass
+✅ modules2 pass
+✅ tests4 pass
+✅ traits1 pass
+✅ cow1 pass
+✅ modules3 pass
+✅ iterators1 pass
+✅ traits2 pass
+✅ hashmaps1 pass
+✅ iterators2 pass
+✅ traits3 pass
+✅ hashmaps2 pass
+✅ iterators3 pass
+✅ threads1 pass
+✅ traits4 pass
+✅ iterators4 pass
+✅ hashmaps3 pass
+✅ traits5 pass
+✅ threads2 pass
+✅ quiz2 pass
+✅ iterators5 pass
+✅ quiz3 pass
+✅ lifetimes1 pass
+✅ options1 pass
+✅ box1 pass
+✅ lifetimes2 pass
+✅ rc1 pass
+✅ options2 pass
+✅ lifetimes3 pass
+✅ options3 pass
+✅ arc1 pass
+✅ tests1 pass
+✅ errors1 pass
+✅ errors2 pass
+✅ errors3 pass
+✅ tests8 pass
+✅ tests9 pass
+❌ algorithm1 points 0/1
+❌ algorithm2 points 0/1
+❌ algorithm3 points 0/1
+❌ algorithm4 points 0/1
+❌ algorithm5 points 0/1
+❌ algorithm6 points 0/1
+❌ algorithm7 points 0/1
+❌ algorithm8 points 0/1
+❌ algorithm9 points 0/1
+❌ try_from_into points 0/1
+❌ algorithm10 points 0/1
+✅ threads3 pass
+✅ macros1 pass
+❌ using_as points 0/1
+✅ macros2 pass
+✅ macros3 pass
+✅ macros4 pass
+✅ tests6 pass
+✅ tests5 pass
+❌ clippy1 points 0/1
+❌ clippy2 points 0/1
+❌ from_into points 0/1
+❌ from_str points 0/1
+❌ clippy3 points 0/1
+❌ as_ref_mut points 0/1
+✅ tests7 pass
+
+Points: 92/110
