@@ -1,0 +1,112 @@
+✅ intro2 pass
+✅ functions3 pass
+✅ modules1 pass
+✅ move_semantics1 pass
+✅ variables1 pass
+✅ functions4 pass
+✅ modules2 pass
+✅ move_semantics2 pass
+✅ variables2 pass
+✅ functions5 pass
+✅ modules3 pass
+✅ move_semantics3 pass
+✅ variables3 pass
+✅ if1 pass
+✅ move_semantics4 pass
+✅ hashmaps1 pass
+✅ variables4 pass
+✅ move_semantics5 pass
+✅ if2 pass
+✅ variables5 pass
+✅ hashmaps2 pass
+✅ move_semantics6 pass
+✅ if3 pass
+✅ variables6 pass
+✅ structs1 pass
+✅ hashmaps3 pass
+✅ functions1 pass
+✅ quiz1 pass
+✅ functions2 pass
+✅ structs2 pass
+✅ primitive_types1 pass
+✅ quiz2 pass
+❌ traits1 points 0/1
+✅ primitive_types2 pass
+✅ structs3 pass
+✅ primitive_types3 pass
+✅ enums1 pass
+✅ enums2 pass
+❌ options1 points 0/1
+✅ primitive_types4 pass
+❌ traits2 points 0/1
+❌ traits3 points 0/1
+❌ options2 points 0/1
+❌ traits4 points 0/1
+✅ primitive_types5 pass
+❌ traits5 points 0/1
+❌ options3 points 0/1
+✅ enums3 pass
+❌ errors1 points 0/1
+❌ errors2 points 0/1
+✅ primitive_types6 pass
+✅ strings1 pass
+❌ quiz3 points 0/1
+❌ errors3 points 0/1
+❌ lifetimes1 points 0/1
+❌ lifetimes2 points 0/1
+✅ strings2 pass
+❌ lifetimes3 points 0/1
+✅ vecs1 pass
+❌ tests1 points 0/1
+❌ errors4 points 0/1
+❌ errors5 points 0/1
+❌ tests2 points 0/1
+❌ tests3 points 0/1
+✅ strings3 pass
+❌ tests4 points 0/1
+✅ vecs2 pass
+❌ iterators1 points 0/1
+❌ iterators2 points 0/1
+❌ errors6 points 0/1
+❌ threads3 points 0/1
+✅ strings4 pass
+❌ generics1 points 0/1
+❌ macros1 points 0/1
+❌ using_as points 0/1
+❌ generics2 points 0/1
+❌ macros2 points 0/1
+❌ tests6 points 0/1
+❌ from_into points 0/1
+❌ macros3 points 0/1
+❌ iterators3 points 0/1
+❌ macros4 points 0/1
+❌ from_str points 0/1
+❌ iterators4 points 0/1
+❌ try_from_into points 0/1
+❌ as_ref_mut points 0/1
+❌ tests7 points 0/1
+❌ iterators5 points 0/1
+❌ tests5 points 0/1
+❌ tests8 points 0/1
+❌ box1 points 0/1
+❌ algorithm1 points 0/1
+❌ rc1 points 0/1
+❌ arc1 points 0/1
+❌ tests9 points 0/1
+❌ cow1 points 0/1
+❌ algorithm2 points 0/1
+❌ algorithm4 points 0/1
+❌ threads1 points 0/1
+❌ algorithm3 points 0/1
+❌ threads2 points 0/1
+❌ algorithm5 points 0/1
+❌ algorithm8 points 0/1
+❌ algorithm6 points 0/1
+❌ algorithm9 points 0/1
+❌ algorithm10 points 0/1
+❌ algorithm7 points 0/1
+❌ clippy1 points 0/1
+❌ clippy2 points 0/1
+❌ clippy3 points 0/1
+
+Points: 47/110
